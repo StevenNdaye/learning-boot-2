@@ -1,7 +1,7 @@
-package com.learning.boot.first_exercise.controllers;
+package com.learning.boot.chapter_one.controllers;
 
-import com.learning.boot.first_exercise.entities.Chapter;
-import com.learning.boot.first_exercise.repository.ChapterRepository;
+import com.learning.boot.chapter_one.entities.Chapter;
+import com.learning.boot.chapter_one.repository.ChapterRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

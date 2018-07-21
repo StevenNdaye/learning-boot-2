@@ -1,6 +1,6 @@
-package com.learning.boot.first_exercise.repository;
+package com.learning.boot.chapter_one.repository;
 
-import com.learning.boot.first_exercise.entities.Chapter;
+import com.learning.boot.chapter_one.entities.Chapter;
 import org.springframework.data.repository.reactive.ReactiveCrudRepository;
 import org.springframework.stereotype.Repository;
 

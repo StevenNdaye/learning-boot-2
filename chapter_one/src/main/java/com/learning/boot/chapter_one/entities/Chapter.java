@@ -1,4 +1,4 @@
-package com.learning.boot.first_exercise.entities;
+package com.learning.boot.chapter_one.entities;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;

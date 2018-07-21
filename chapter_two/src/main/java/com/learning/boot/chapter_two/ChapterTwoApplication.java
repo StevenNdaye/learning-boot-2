@@ -1,12 +1,12 @@
-package com.learning.boot.first_exercise;
+package com.learning.boot.chapter_two;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FirstExerciseApplication {
+public class ChapterTwoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FirstExerciseApplication.class, args);
+		SpringApplication.run(ChapterTwoApplication.class, args);
 	}
 }

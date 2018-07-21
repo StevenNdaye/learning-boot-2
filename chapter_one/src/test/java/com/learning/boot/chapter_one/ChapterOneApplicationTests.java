@@ -1,4 +1,4 @@
-package com.learning.boot.first_exercise;
+package com.learning.boot.chapter_one;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class FirstExerciseApplicationTests {
+public class ChapterOneApplicationTests {
 
 	@Test
 	public void contextLoads() {

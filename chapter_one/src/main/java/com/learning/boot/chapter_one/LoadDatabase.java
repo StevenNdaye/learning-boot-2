@@ -1,7 +1,7 @@
-package com.learning.boot.first_exercise;
+package com.learning.boot.chapter_one;
 
-import com.learning.boot.first_exercise.entities.Chapter;
-import com.learning.boot.first_exercise.repository.ChapterRepository;
+import com.learning.boot.chapter_one.entities.Chapter;
+import com.learning.boot.chapter_one.repository.ChapterRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
